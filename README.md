@@ -26,7 +26,3 @@
 <img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
 <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
 </div>
-</br></br>
-
-### 💻 Algorithm Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhtjsdnr9999)](https://solved.ac/rhtjsdnr9999/)
