@@ -1,17 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi✋&fontSize=70&animation=twinkling)
   
-## 👨‍💻 Data Scientist
+### 👨‍💻 Data Scientist
 - Data Scientist in Lotte Data Communication Center(LDCC)
 </br></br>
 
-## 🤔 Interest
+### 🤔 Interest
 - ML/DL Model Production & Optimization
 - Customer Data Platform Operation
   - Data Engineering (Data Cleansing / Workflow Scheduling)
 - Hadoop / Spark / Hive / Presto / Tableau / Airflow
 </br></br>
 
-## 📚 Tech Stack
+### 📚 Tech Stack
 <div align=center>    
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> 
