@@ -28,4 +28,4 @@
 </div>
 
 ### 🪪 Certification
-[![Tensorflow-Developer-Certificate](https://img.shields.io/badge/Tensorflow%20Developer-Certificate-FF6F00.svg)]
+![Tensorflow-Developer-Certificate](https://img.shields.io/badge/Tensorflow%20Developer-Certificate-FF6F00.svg)
