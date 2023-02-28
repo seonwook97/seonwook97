@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi✋&fontSize=70&animation=twinkling)
 
 ### 👨‍💻 Data Scientist
-- Data Scientist in Lotte Data Communication (LDCC)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Scientist in Lotte Data Communication (LDCC)
 </br></br>
 
 ### 🤔 Interest
-- ML/DL Model Production & Optimization
-- Customer Data Platform Operation
-  - Data Engineering (Data Cleansing / Workflow Scheduling)
-- Hadoop / Spark / Hive / Presto / Tableau 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ML/DL Model Production & Optimization
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Customer Data Platform Operation
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Engineering (Data Cleansing / Workflow Scheduling)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hadoop / Spark / Hive / Presto / Tableau 
 </br></br>
 
 ### 📚 Tech Stack
@@ -28,4 +28,4 @@
 </div>
 
 ### 🪪 Certification
-&nbsp;&nbsp;&nbsp;&nbsp;![Tensorflow Developer Certificate](https://img.shields.io/badge/Tensorflow%20Developer%20Certificate-FF6F00.svg?logo=Tensorflow&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Tensorflow Developer Certificate](https://img.shields.io/badge/Tensorflow%20Developer%20Certificate-FF6F00.svg?logo=Tensorflow&logoColor=white)
