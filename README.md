@@ -28,4 +28,4 @@
 </div>
 
 ### 🪪 Certification
-- https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58577259
+- [![Tensorflow Developer Certificate](https://img.shields.io/badge/Tensorflow%20Developer%20Certificate-orange?style=for-the-badge&logo=Tensorflow)](https://jupyter.org/try)
