@@ -28,5 +28,4 @@
 </div>
 
 ### 🪪 Certification
-- https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white Tensorflow Developer Certificate
-</br></br>
+- https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58577259
