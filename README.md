@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi✋&fontSize=70&animation=twinkling)
 
 ### 👨‍💻 Data Scientist
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Scientist in Lotte Data Communication (LDCC)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Scientist in Lotte Data Communication (LDCC)
 </br></br>
 
 ### 🤔 Interest
@@ -28,4 +28,4 @@
 </div>
 
 ### 🪪 Certification
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Tensorflow Developer Certificate](https://img.shields.io/badge/Tensorflow%20Developer%20Certificate-FF6F00.svg?logo=Tensorflow&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Tensorflow Developer Certificate](https://img.shields.io/badge/Tensorflow%20Developer%20Certificate-FF6F00.svg?logo=Tensorflow&logoColor=white)
