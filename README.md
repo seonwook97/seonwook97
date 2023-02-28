@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/apachehive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=white">
 <img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
 </div>
+</br></br>
 
 ### 🪪 Certification
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Tensorflow Developer Certificate](https://img.shields.io/badge/Tensorflow%20Developer%20Certificate-FF6F00.svg?logo=Tensorflow&logoColor=white)](https://www.credential.net/dde2b84e-3761-47ed-b783-b03b569e2480?record_view=true#gs.qqr5c8)
