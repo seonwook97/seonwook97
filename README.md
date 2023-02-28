@@ -25,7 +25,8 @@
 <img src="https://img.shields.io/badge/presto-5890FF?style=for-the-badge&logo=presto&logoColor=white">
 <img src="https://img.shields.io/badge/apachehive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=white">
 <img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
-</br></br>
+</div>
+</br>
 
 
 ### 🪪 Certification
