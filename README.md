@@ -2,7 +2,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Scientist in Lotte Data Communication Company
 </br></br>
 
-### 🍀 Currently Learning about
+### 📚 Currently working at
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lotte Hotel Treasure Data CDP Engineering
+</br></br>
+
+### 🍀 Currently learning about
 <div align=left>    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/presto-5890FF?style=for-the-badge&logo=presto&logoColor=white">
