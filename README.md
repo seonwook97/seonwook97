@@ -3,8 +3,6 @@
 </br></br>
 
 ### 🤔 Interest
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ML/DL Model Production & Optimization </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Customer Data Platform Operation </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Engineering </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hadoop / Spark / Hive / Presto / Tableau 
 </br></br>
