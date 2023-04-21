@@ -1,5 +1,5 @@
-### 👨‍💻 Data Scientist
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Scientist in Lotte Data Communication Company
+### 👨‍💻 Data Engineer
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Engineer in Lotte Data Communication Company
 </br></br>
 
 ### 📚 Currently working at
