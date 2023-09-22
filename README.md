@@ -19,8 +19,12 @@
 </div>
 </br></br>
 
-### 🪪 Certificate
+### 📖 Certificate
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Tensorflow Developer Certificate](https://img.shields.io/badge/Tensorflow%20Developer%20Certificate-FF6F00.svg?logo=Tensorflow&logoColor=white)](https://www.credential.net/dde2b84e-3761-47ed-b783-b03b569e2480?record_view=true#gs.qqr5c8)
+</br></br>
+
+### 👦 Blog
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seonwook97)](https://github.com/seonwook97/velog-readme-stats)
 </br></br>
 
 ### 💻 Commit Status
