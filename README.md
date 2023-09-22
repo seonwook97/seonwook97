@@ -24,7 +24,7 @@
 </br></br>
 
 ### 👦 Blog
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seonwook97)](https://github.com/seonwook97/velog-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=seonwook97)](https://velog.io/@seonwook97)
 </br></br>
 
 ### 💻 Commit Status
