@@ -21,7 +21,7 @@
 
 ### 📖 Certificate
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Tensorflow Developer Certificate](https://img.shields.io/badge/Tensorflow%20Developer%20Certificate-FF6F00.svg?logo=Tensorflow&logoColor=white)](https://www.credential.net/dde2b84e-3761-47ed-b783-b03b569e2480?record_view=true#gs.qqr5c8)
-&nbsp;[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E.svg?logo=Amazon&logoColor=white)](https://www.credly.com/earner/earned/badge/74e3ddcf-c61c-4bdf-9dda-29a6173b63bb)
+&nbsp;[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E.svg?logo=Amazon&logoColor=white)](https://www.credly.com/badges/74e3ddcf-c61c-4bdf-9dda-29a6173b63bb/public_url)
 </br></br>
 
 ### 👦 Blog
